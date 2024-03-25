@@ -1,0 +1,122 @@
+[
+  {
+    "Name": "Transgender",
+    "Colors": ["55CDFC", "F7A8B8", "FFFFFF", "F7A8B8", "55CDFC"],
+    "Probability": 1.0
+  },
+  {
+    "Name": "Rainbow",
+    "Colors": ["E40303", "FF8C00", "FFED00", "008026", "24408E", "732982"],
+    "Probability": 1.0
+  },
+  {
+    "Name": "Progress",
+    "Colors": [
+      "FFFFFF",
+      "F7A8B8",
+      "55CDFC",
+      "613915",
+      "000000",
+      "E40303",
+      "FF8C00",
+      "FFED00",
+      "008026",
+      "24408E",
+      "732982"
+    ],
+    "Probability": 1.0
+  },
+  {
+    "Name": "Intersex Progress",
+    "Colors": [
+      "FFD800",
+      "7902AA",
+      "FFD800",
+      "FFFFFF",
+      "F7A8B8",
+      "55CDFC",
+      "613915",
+      "000000",
+      "E40303",
+      "FF8C00",
+      "FFED00",
+      "008026",
+      "24408E",
+      "732982"
+    ],
+    "Widths": [0.4, 0.2, 0.4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    "Probability": 1.0
+  },
+  {
+    "Name": "Bisexual",
+    "Colors": ["D60270", "9B4F96", "0038A8"],
+    "Widths": [2, 1, 2],
+    "Probability": 1.0
+  },
+  {
+    "Name": "Pansexual",
+    "Colors": ["FF1c8D", "FFd700", "1AB3FF"],
+    "Probability": 1.0
+  },
+  {
+    "Name": "Nonbinary",
+    "Colors": ["FCF431", "FCFCFC", "9D59D2", "282828"],
+    "Probability": 1.0
+  },
+  {
+    "Name": "Lesbian",
+    "Colors": ["D62800", "FF9B56", "FFFFFF", "D462A6", "A40062"],
+    "Probability": 1.0
+  },
+  {
+    "Name": "Agender",
+    "Colors": [
+      "000000",
+      "BABABA",
+      "FFFFFF",
+      "BAF484",
+      "FFFFFF",
+      "BABABA",
+      "000000"
+    ],
+    "Probability": 1.0
+  },
+  {
+    "Name": "Asexual",
+    "Colors": ["000000", "A4A4A4", "FFFFFF", "810081"],
+    "Probability": 1.0
+  },
+  {
+    "Name": "Demisexual",
+    "Colors": ["000000", "FFFFFF", "6E0071", "D3D3D3"],
+    "Widths": [2.5, 2.5, 1, 2.5],
+    "Probability": 1.0
+  },
+  {
+    "Name": "Genderqueer",
+    "Colors": ["B57FDD", "FFFFFF", "49821E"],
+    "Probability": 1.0
+  },
+  {
+    "Name": "Genderfluid",
+    "Colors": ["FE76A2", "FFFFFF", "BF12D7", "000000", "303CBE"],
+    "Probability": 1.0
+  },
+  {
+    "Name": "Intersex",
+    "Colors": ["FFD800", "7902AA", "FFD800"],
+    "Widths": [5, 1, 5],
+    "Probability": 1.0
+  },
+  {
+    "Name": "Aromantic",
+    "Colors": ["3BA740", "A8D47A", "FFFFFF", "ABABAB", "000000"],
+    "Probability": 1.0
+  },
+  {
+    "Name": "Polyamory",
+    "Colors": ["0000FF", "FF0000", "FFFF00", "FF0000", "000000"],
+    "Widths": [1, 0.7, 0.1, 0.7, 1],
+    "Probability": 1.0
+  }
+]
